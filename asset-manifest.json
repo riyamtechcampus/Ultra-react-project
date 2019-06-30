@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ultra-react-project/static/css/main.e41b2382.chunk.css",
+    "main.js": "/Ultra-react-project/static/js/main.fc1f5571.chunk.js",
+    "main.js.map": "/Ultra-react-project/static/js/main.fc1f5571.chunk.js.map",
+    "runtime~main.js": "/Ultra-react-project/static/js/runtime~main.3257837f.js",
+    "runtime~main.js.map": "/Ultra-react-project/static/js/runtime~main.3257837f.js.map",
+    "static/js/2.9e29e9b0.chunk.js": "/Ultra-react-project/static/js/2.9e29e9b0.chunk.js",
+    "static/js/2.9e29e9b0.chunk.js.map": "/Ultra-react-project/static/js/2.9e29e9b0.chunk.js.map",
+    "index.html": "/Ultra-react-project/index.html",
+    "precache-manifest.1f18c28e0dda31e3655684522ca8392f.js": "/Ultra-react-project/precache-manifest.1f18c28e0dda31e3655684522ca8392f.js",
+    "service-worker.js": "/Ultra-react-project/service-worker.js",
+    "static/css/main.e41b2382.chunk.css.map": "/Ultra-react-project/static/css/main.e41b2382.chunk.css.map"
+  }
+}
